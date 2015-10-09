@@ -1,0 +1,11 @@
+C:\projects\WebScraping\WebScraping\bin\Debug\WebScraping.exe.config
+C:\projects\WebScraping\WebScraping\bin\Debug\phantomjs.exe
+C:\projects\WebScraping\WebScraping\bin\Debug\WebScraping.exe
+C:\projects\WebScraping\WebScraping\bin\Debug\WebScraping.pdb
+C:\projects\WebScraping\WebScraping\bin\Debug\WebDriver.dll
+C:\projects\WebScraping\WebScraping\bin\Debug\WebDriver.Support.dll
+C:\projects\WebScraping\WebScraping\bin\Debug\WebDriver.xml
+C:\projects\WebScraping\WebScraping\bin\Debug\WebDriver.Support.xml
+C:\projects\WebScraping\WebScraping\obj\Debug\WebScraping.csprojResolveAssemblyReference.cache
+C:\projects\WebScraping\WebScraping\obj\Debug\WebScraping.exe
+C:\projects\WebScraping\WebScraping\obj\Debug\WebScraping.pdb
